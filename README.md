@@ -14,6 +14,7 @@ Here is the key project featured in this portfolio:
 1. **Project 1: Index Page and contact page**
    - Description: The main page of my portfolio.
    - Technologies Used: HTML, CSS
+Project link: https://bruceleebabu96.github.io/portfolio-simple-website/
 
 
 ## Contact
