@@ -1,0 +1,104 @@
+* {
+  border: 0;
+  margin: 0;
+  /* margin: 10px; */
+  
+  }
+.body
+{
+    padding: 50px;
+    font-family: 'Young Serif', serif;   
+}
+
+.section-one,
+.section-five {
+  background-color: black;
+  color: aliceblue;
+  border-radius: 10px;
+padding: 20px;
+}
+.section-one a,
+.section-five a {
+  text-decoration: none;
+  color: rgb(59, 13, 168);
+}
+
+.section-three li,
+.section-four li {
+  list-style-type: none;
+}
+.section-one__button {
+  background-color: orangered;
+  color: white;
+  padding: 5px;
+  
+}
+.section-one__button:hover {
+  background-color: green;
+}
+
+.section-four {
+  background-color: orange;
+  height: 200px;
+ display: inline-block;
+ vertical-align: top;
+ border-radius: 10px;
+ padding: 20px;}
+
+.section-three {
+  background-color: blueviolet;
+  height: 200px;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 10px;
+padding: 20px;}
+.section-one__desc
+{
+    padding: 5px;
+    display: inline-block;
+}
+
+.section-two, .section-three, .section-four
+{
+    margin-top: 10px;
+}
+
+.section-five
+{
+    margin-top: 20px;
+}
+
+input outline, textarea outline
+{
+    color: green;
+}
+
+.section-five--margin
+{
+    margin-top: 0;
+}
+
+td
+{
+    padding-top: 20px;
+
+}
+.contact-section__input
+{
+    border: none;
+    border-bottom: 2px solid gray;
+
+}  .contact-section__textarea
+{
+    border: none;
+    border: 2px solid gray;
+
+}
+.contact-section__submit
+
+{
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 10px;
+}
